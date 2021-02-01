@@ -10,4 +10,5 @@ U data-set se mogu dodati bilo koji fajlovi sa c# source kodom.
 
 U java-project nalaze se klase, 1 producer, 2 consumera i 2 Kafka Stream-a za obradu.
 
-![arhitektura](https://github.com/VeljkoMaksimovic/ASVSP/edit/main/ASVSP2.png)
+![Arhitektura cela slika](https://github.com/VeljkoMaksimovic/ASVSP/edit/main/ASVSP2.png)
+<img src=“ttps://github.com/VeljkoMaksimovic/ASVSP/edit/main/ASVSP2.png”>
